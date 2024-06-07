@@ -53,9 +53,6 @@ On DC One (the DNS Server), I open Server Manager.
 I go to Tools > DNS.
 I expand the server name (DC One).
 I expand Forward Lookup Zones and then my domain name.
-I right-click and select New Host (A or AAAA)....
-I enter "Mainframe" for the name and DC One's IP address for the IP address.
-I click Add Host.
 </p>
 <br />
 
@@ -63,9 +60,9 @@ I click Add Host.
 <img src="https://imgur.com/b8C22YN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Right-click and select New Host (A or AAAA)....
-Enter "Mainframe" for the name and DC One's IP address for the IP address.
-Click Add Host.
+3. I right-click and select New Host (A or AAAA)....
+I enter "Mainframe" for the name and DC One's IP address for the IP address.
+I click Add Host.
 </p>
 <br />
 
