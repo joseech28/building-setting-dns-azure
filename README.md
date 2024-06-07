@@ -47,7 +47,7 @@ I observe that the ping fails because there is no DNS record for "Mainframe".
 <img src="https://imgur.com/zkgqXtb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise 2: Creating an A Record
+2. Creating an A Record
 Creating an A Record
 On DC One (the DNS Server), I open Server Manager.
 I go to Tools > DNS.
@@ -63,7 +63,7 @@ I click Add Host.
 <img src="https://imgur.com/b8C22YN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right-click and select New Host (A or AAAA)....
+3. Right-click and select New Host (A or AAAA)....
 Enter "Mainframe" for the name and DC One's IP address for the IP address.
 Click Add Host.
 </p>
@@ -74,8 +74,14 @@ Click Add Host.
 </p>
 <p>
 On Client One:
-Type ping Mainframe in the command prompt and press Enter.
-Observe: The ping should succeed, and the IP address should match DC One's IP address.
+Creating an A Record
+On DC One (the DNS Server), I open Server Manager.
+I go to Tools > DNS.
+I expand the server name (DC One).
+I expand Forward Lookup Zones and then my domain name.
+I right-click and select New Host (A or AAAA)....
+I enter "Mainframe" for the name and DC One's IP address for the IP address.
+I click Add Host.
 </p>
 <br />
 
