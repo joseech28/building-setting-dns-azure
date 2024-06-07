@@ -48,12 +48,15 @@ I observe that the ping fails because there is no DNS record for "Mainframe".
 <img src="https://imgur.com/zkgqXtb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise  2: Creating an A Record and Pinging
-On DC One (DNS Server):
-Open Server Manager.
-Go to Tools > DNS.
-Expand the server name (DC One).
-Expand Forward Lookup Zones > jose.com.
+Exercise 2: Creating an A Record
+Creating an A Record
+On DC One (the DNS Server), I open Server Manager.
+I go to Tools > DNS.
+I expand the server name (DC One).
+I expand Forward Lookup Zones and then my domain name.
+I right-click and select New Host (A or AAAA)....
+I enter "Mainframe" for the name and DC One's IP address for the IP address.
+I click Add Host.
 </p>
 <br />
 
