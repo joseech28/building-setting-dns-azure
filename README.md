@@ -65,8 +65,21 @@ I enter "Mainframe" for the name and DC One's IP address for the IP address.
 I click Add Host.
 </p>
 <br />
+
+
+
+
+
+
 <p>
 <img src="https://imgur.com/UsqRQ3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 3: Observing DNS Cache Behavior
+Viewing the DNS Cache
+On Client One, I use the command ipconfig /displaydns to view the DNS cache.
+I observe an entry for "Mainframe" and its corresponding IP address.
+
+
+ 
 </p>
 <p>
 Pinging the Newly Created A Record
@@ -79,18 +92,8 @@ I observe that the ping succeeds, and the IP address matches DC One's IP address
 </p>
 
 <p>
-<img src="https://i.imgur.com/mkPPXso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
- 3.  Observing DNS Cache Behavior
-Viewing the DNS Cache
-On Client One, I use the command ipconfig /displaydns to view the DNS cache.
-I observe an entry for "Mainframe" and its corresponding IP address.
-
 </p>
 <br />
-
-
 <p>
 On Client One:
 Creating an A Record
