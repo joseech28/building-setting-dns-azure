@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/zkgqXtb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise 2: Creating an A Record and Pinging
+Exercise 1: Creating an A Record and Pinging
 On DC One (DNS Server):
 Open Server Manager.
 Go to Tools > DNS.
