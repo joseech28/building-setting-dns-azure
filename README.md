@@ -36,8 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/xywYSqv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise 1: Pinging a Non-Existent Hostname
-Pinging a Non-Existent Hostname
+1. Pinging a Non-Existent Hostname
 I open a command prompt on Client One.
 I type ping Mainframe and press Enter.
 I observe that the ping fails because there is no DNS record for "Mainframe".
