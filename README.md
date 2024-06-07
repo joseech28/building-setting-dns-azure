@@ -42,9 +42,7 @@ Open Server Manager.
 Go to Tools > DNS.
 Expand the server name (DC One).
 Expand Forward Lookup Zones > jose.com.
-Right-click and select New Host (A or AAAA)....
-Enter "Mainframe" for the name and DC One's IP address for the IP address.
-Click Add Host.
+
 On Client One:
 Type ping Mainframe in the command prompt and press Enter.
 Observe: The ping should succeed, and the IP address should match DC One's IP address.
@@ -55,7 +53,9 @@ Observe: The ping should succeed, and the IP address should match DC One's IP ad
 <img src="https://imgur.com/b8C22YN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right-click and select New Host (A or AAAA)....
+Enter "Mainframe" for the name and DC One's IP address for the IP address.
+Click Add Host.
 </p>
 <br />
 
