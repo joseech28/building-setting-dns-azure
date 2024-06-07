@@ -36,15 +36,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/zkgqXtb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise 1: Creating an A Record and Pinging
+Exercise 2: Creating an A Record and Pinging
 On DC One (DNS Server):
 Open Server Manager.
 Go to Tools > DNS.
 Expand the server name (DC One).
-Expand Forward Lookup Zones > [Your Domain Name].
+Expand Forward Lookup Zones > jose.com.
 Right-click and select New Host (A or AAAA)....
 Enter "Mainframe" for the name and DC One's IP address for the IP address.
 Click Add Host.
+On Client One:
+Type ping Mainframe in the command prompt and press Enter.
+Observe: The ping should succeed, and the IP address should match DC One's IP address.
 </p>
 <br />
 
