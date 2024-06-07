@@ -33,15 +33,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/zkgqXtb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xywYSqv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Exercise  2: Creating an A Record and Pinging
-On DC One (DNS Server):
-Open Server Manager.
-Go to Tools > DNS.
-Expand the server name (DC One).
-Expand Forward Lookup Zones > jose.com.
+Exercise 1: Pinging a Non-Existent Hostname
+Pinging a Non-Existent Hostname
+I open a command prompt on Client One.
+I type ping Mainframe and press Enter.
+I observe that the ping fails because there is no DNS record for "Mainframe".
 </p>
 <br />
 
