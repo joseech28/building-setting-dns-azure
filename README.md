@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/kJhEm5a.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Understanding Root Hints and DNS Resolution Azure Virtual Machines</h1>
