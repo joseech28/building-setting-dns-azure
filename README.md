@@ -68,7 +68,7 @@ I click Add Host.
 <p>
 <img src="https://imgur.com/UsqRQ3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-4.  Pinging the Newly Created A Record Back on Client One, I type ping Mainframe in the command prompt and press Enter. I observe that the ping succeeds, and the IP address matches DC One's IP address.
+4. Pinging the Newly Created A Record Back on Client One, I type ping Mainframe in the command prompt and press Enter. I observe that the ping succeeds, and the IP address matches DC One's IP address.
 
 </p>
 <br />
@@ -78,7 +78,7 @@ I click Add Host.
 
 <img src="https://i.imgur.com/ND2ylVi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Viewing the DNS Cache
+5. Viewing the DNS Cache
 On Client One, I use the command ipconfig /displaydns to view the DNS cache.
 I observe an entry for "Mainframe" and its corresponding IP address.
 </p>
@@ -92,7 +92,6 @@ I observe an entry for "Mainframe" and its corresponding IP address.
 <br />
 <p>
 6. Pinging a Non-Existent CNAME
-
 On Client One, I type ping search in the command prompt and press Enter.
 I observe that the ping fails because there is no record for "search".
 </p>
