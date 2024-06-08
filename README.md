@@ -120,61 +120,9 @@ On DC One, I right-click on the server name (DC One) and select Properties.
 I go to the Root Hints tab.
 I observe a list of root hint servers that DC One can use to resolve queries for domains not in its local records.
 
-
-
-
-
 </p>
 <br />
 
 
 
-
-<p>
-<img src="https://imgur.com/o1n2NOz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-9. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/VrcO588.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-10. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/8BtH394.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-11. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/xyxqHJB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-12. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src=https://imgur.com/f7zbNKT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-13. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/ypsK5Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-14. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
