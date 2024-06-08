@@ -66,15 +66,17 @@ I click Add Host.
 </p>
 <br />
 
+</p>
 <p>
 <img src="https://imgur.com/UsqRQ3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
  4.  Observing DNS Cache Behavior
 Viewing the DNS Cache
 On Client One, I use the command ipconfig /displaydns to view the DNS cache.
 I observe an entry for "Mainframe" and its corresponding IP address.
+</p>
+<br />
 
-
- 
 </p>
 <p>
 5. Pinging the Newly Created A Record
