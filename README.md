@@ -93,15 +93,10 @@ I observe an entry for "Mainframe" and its corresponding IP address.
 </p>
 <br />
 <p>
-6. On Client One:
-Creating an A Record
-On DC One (the DNS Server), I open Server Manager.
-I go to Tools > DNS.
-I expand the server name (DC One).
-I expand Forward Lookup Zones and then my domain name.
-I right-click and select New Host (A or AAAA)....
-I enter "Mainframe" for the name and DC One's IP address for the IP address.
-I click Add Host.
+6. Pinging a Non-Existent CNAME
+
+On Client One, I type ping search in the command prompt and press Enter.
+I observe that the ping fails because there is no record for "search".
 </p>
 <br />
 
