@@ -21,7 +21,7 @@ In this tutorial,  This source explains and demonstrates the basics of DNS, incl
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+
 
 <h2>High-Level Steps</h2>
 
@@ -67,9 +67,9 @@ I click Add Host.
 </p>
 <p>
 <img src="https://imgur.com/UsqRQ3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
+<p>
 4. Pinging the Newly Created A Record Back on Client One, I type ping Mainframe in the command prompt and press Enter. I observe that the ping succeeds, and the IP address matches DC One's IP address.
-
 </p>
 <br />
 
@@ -77,7 +77,8 @@ I click Add Host.
 <p>
 
 <img src="https://i.imgur.com/ND2ylVi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
+<p>
 5. Viewing the DNS Cache
 On Client One, I use the command ipconfig /displaydns to view the DNS cache.
 I observe an entry for "Mainframe" and its corresponding IP address.
@@ -102,7 +103,6 @@ I observe that the ping fails because there is no record for "search".
 </p>
 <p>
 7. Creating a CNAME Record
-
 On DC One, in the DNS Manager, I right-click in the same zone where I created the A record.
 I select New Alias (CNAME)....
 I enter "search" for the alias name and "www.google.com" for the fully qualified domain name.
