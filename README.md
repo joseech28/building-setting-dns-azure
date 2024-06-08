@@ -104,7 +104,12 @@ I observe that the ping fails because there is no record for "search".
 <img src="https://imgur.com/RZt3aih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. Creating a CNAME Record
+
+On DC One, in the DNS Manager, I right-click in the same zone where I created the A record.
+I select New Alias (CNAME)....
+I enter "search" for the alias name and "www.google.com" for the fully qualified domain name.
+I click OK.
 </p>
 <br />
 
