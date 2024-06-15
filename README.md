@@ -15,6 +15,8 @@ In this tutorial,  This source explains and demonstrates the basics of DNS, incl
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
+- Active Directory
+- DNS Management  
 
 
 
